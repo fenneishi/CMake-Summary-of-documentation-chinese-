@@ -49,6 +49,7 @@ CMake官方的教程、文档(部分有中文翻译)
 * Hitchhiker的CMake指南(英文)：<https://cgold.readthedocs.io/en/latest/index.html>
 * CMake语法简介(中文PDF)：<https://github.com/Akagi201/learning-cmake/blob/master/docs/cmake-rules.pdf>
 * 柯南教程(英文)：<https://docs.conan.io/en/latest/>
+* 上海交通大学IPADS(视频):https://www.bilibili.com/video/BV14h41187FZ/?spm_id_from=333.788
 
 
 
