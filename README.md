@@ -59,13 +59,13 @@ CMake官方的教程、文档(部分有中文翻译)
 
 # 3 网络资料
 网络上零散的有关CMake的笔记，资料，博客.....
-<https://rix0r.nl/blog/2015/08/13/cmake-guide/>
-<https://github.com/onqtam/awesome-cmake>
-<https://www.jianshu.com/search?q=cmake&page=1&type=note>
-<https://zhuanlan.zhihu.com/cmake>
-<https://www.youtube.com/results?search_query=cmake%E6%95%99%E7%A8%8B&pbjreload=10>
-<https://blog.csdn.net/W343051232/article/details/52397628>
-<https://blog.csdn.net/haluoluo211/column/info/17096>
+1. <https://rix0r.nl/blog/2015/08/13/cmake-guide/>
+2. <https://github.com/onqtam/awesome-cmake>
+3. <https://www.jianshu.com/search?q=cmake&page=1&type=note>
+4. <https://zhuanlan.zhihu.com/cmake>
+5. <https://www.youtube.com/results?search_query=cmake%E6%95%99%E7%A8%8B&pbjreload=10>
+6. <https://blog.csdn.net/W343051232/article/details/52397628>
+7. <https://blog.csdn.net/haluoluo211/column/info/17096>
 
 
 # 4 相关工具
